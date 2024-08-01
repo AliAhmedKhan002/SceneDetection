@@ -15,7 +15,7 @@ Table of Contents
    *Clone the repository:
 
 
-	git clone https://github.com/AI-TEAM-R-D-Models/scene-detection-api.git
+	git clone https://github.com/AI-TEAM-R-D-Models/scene-detection-api.git](https://github.com/AliAhmedKhan002/SceneDetection.git
 	cd florence2-object-detection
 
 
